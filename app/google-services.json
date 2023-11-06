@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987708940825",
+    "project_id": "number-puzzle-7200f",
+    "storage_bucket": "number-puzzle-7200f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987708940825:android:51a9aefccba2997fb60088",
+        "android_client_info": {
+          "package_name": "ir.meros.numberpuzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcRJZBnSLsjuiQQykJUs-pbTDxDReAM60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
